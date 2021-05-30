@@ -1,0 +1,1 @@
+C:\Users\bibin\.virtualenvs\cowin-KanOwF_d\Scripts\python.exe main.py & cmd /k
